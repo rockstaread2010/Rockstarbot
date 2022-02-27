@@ -1,3 +1,3 @@
-﻿using TwichBot;
-
-TwitchBot tb = new TwitchBot();
+﻿namespace RockBot{
+    
+}
